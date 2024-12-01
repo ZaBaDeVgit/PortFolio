@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente de un **Portfolio Personal** desarrollado utilizando **Next.js** y **React**.  
 Diseñado para destacar proyectos, habilidades y proporcionar información personal, cuenta con una **interfaz moderna e interactiva** que se adapta a cualquier dispositivo.
 
-![Portfolio Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/portfolio-screenshot.png)
+![PortFolio](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-5.png)
 
 ---
 
