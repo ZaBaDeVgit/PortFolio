@@ -1,4 +1,4 @@
-🖥️ PortFolio Personal
+🖥️ Portfolio Personal - Creado con Next.js
 Este repositorio contiene el código fuente de un Portfolio Personal desarrollado utilizando Next.js y React. Diseñado para destacar proyectos, habilidades y proporcionar información personal, cuenta con una interfaz moderna e interactiva que se adapta a cualquier dispositivo.
 
 
@@ -65,4 +65,4 @@ Facebook 📘
 Twitter 🐦
 Instagram 📸
 LinkedIn 💼
-¡Gracias por visitar el repositorio del PortFolio Personal! 🌟🚀
+¡Gracias por visitar el repositorio del Portfolio Personal! 🌟🚀
