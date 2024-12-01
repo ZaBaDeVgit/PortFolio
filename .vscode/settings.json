@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "VictorMono Nerd Font",
+    "editor.fontSize": 14,
+    "rainbowBrackets.excludedLanguageIds": [
+
+        "markdown"
+    ],
+    "cSpell.words": [
+        "Estilos",
+        "lucide",
+        "Personaliza",
+        "según",
+        "skillbars"
+    ]
+}
