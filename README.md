@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🖥️ PortFolio Personal
+Este repositorio contiene el código fuente de un Portfolio Personal desarrollado utilizando Next.js y React. Diseñado para destacar proyectos, habilidades y proporcionar información personal, cuenta con una interfaz moderna e interactiva que se adapta a cualquier dispositivo.
 
-## Getting Started
 
-First, run the development server:
 
-```bash
+🚀 Principales Características
+Presentación de proyectos destacados: Una galería dinámica donde se pueden explorar los proyectos más relevantes.
+Sección "About Me": Información personal sobre tu experiencia y trayectoria.
+Habilidades técnicas: Una representación gráfica y categorizada de tus conocimientos.
+Interfaz moderna y responsiva: Compatible con dispositivos móviles, tablets y escritorios.
+Fácil personalización: Los datos y diseños pueden ser fácilmente ajustados.
+🛠 Pila Tecnológica
+El portfolio ha sido desarrollado utilizando:
+
+Next.js: 85% 🟦
+React: 10% 🟨
+CSS Modules: 3% 🟩
+HTML: 2% 🟥
+💻 Tecnologías y Herramientas
+Next.js: Framework React para aplicaciones web rápidas y escalables.
+React: Biblioteca para construir interfaces de usuario.
+CSS Modules: Diseño modular para estilos reutilizables y limpios.
+Vercel: Implementación para proyectos Next.js con un solo clic.
+🌐 Funcionalidades Clave
+Galería de Proyectos: Incluye capturas de pantalla, descripciones y enlaces a repositorios o demos.
+About Me: Destaca tu experiencia, intereses y pasiones.
+Skills: Visualiza tus habilidades con indicadores claros.
+Modo Oscuro/Claro: Un tema que cambia según la preferencia del usuario.
+SEO Optimizado: Aumenta la visibilidad en motores de búsqueda con configuraciones integradas.
+🔧 Instalación
+Para ejecutar este portfolio en tu máquina local, sigue estos pasos:
+
+Clona este repositorio:
+
+bash
+Copiar código
+git clone https://github.com/BalaZaStudio/Portfolio.git
+Instala las dependencias:
+
+bash
+Copiar código
+cd Portfolio
+npm install
+Inicia el servidor de desarrollo:
+
+bash
+Copiar código
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Abre tu navegador:
+Visita http://localhost:3000 para ver el portfolio en acción.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📝 Contribuciones
+Si deseas contribuir al proyecto:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Haz un fork del repositorio.
+Crea una nueva rama para tu característica o corrección.
+Realiza tus cambios y envía un pull request.
+📄 Licencia
+Este proyecto está bajo la Licencia MIT. ¡Siéntete libre de usarlo y modificarlo!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📱 Redes Sociales
+Mantente conectado para más actualizaciones y proyectos:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Facebook 📘
+Twitter 🐦
+Instagram 📸
+LinkedIn 💼
+¡Gracias por visitar el repositorio del PortFolio Personal! 🌟🚀
