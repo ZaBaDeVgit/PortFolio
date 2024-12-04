@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente de un **Portfolio Personal** desarrollado utilizando **Next.js** y **React**.  
 Diseñado para destacar proyectos, habilidades y proporcionar información personal, cuenta con una **interfaz moderna e interactiva** que se adapta a cualquier dispositivo.
 
-![PortFolio](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-5.png)
+![PortFolio](https://github.com/ZaBaDeVgit/Image-ScreenShot/blob/main/image-5.png)
 
 ---
 
@@ -54,7 +54,7 @@ Para ejecutar este portfolio en tu máquina local, sigue estos pasos:
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/BalaZaStudio/Portfolio.git
+    git clone https://github.com/ZaBaDeVgit/Portfolio.git
     ```
 
 2. **Instala las dependencias**:
@@ -96,10 +96,10 @@ Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 Mantente conectado para más actualizaciones y proyectos:
 
-- [Facebook](https://facebook.com/BalaZaStudio) 📘
-- [Twitter](https://twitter.com/BalaZaStudio) 🐦
-- [Instagram](https://instagram.com/BalaZaStudio) 📸
-- [LinkedIn](https://linkedin.com/in/BalaZaStudio) 💼
+- [Facebook](https://facebook.com/ZaBaDeVgit) 📘
+- [Twitter](https://twitter.com/ZaBaDeVgit) 🐦
+- [Instagram](https://instagram.com/ZaBaDeVgit) 📸
+- [LinkedIn](https://linkedin.com/in/ZaBaDeVgit) 💼
 
 ---
 
