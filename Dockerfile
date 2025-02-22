@@ -12,12 +12,13 @@ COPY src ./src
 # Instalar dependencias y construir la app
 RUN npm install
 RUN npm run build
+RUN npm run export  # Esto genera la carpeta `out`
 
 # Etapa 2: Servir con Nginx
 FROM nginx:alpine
 
 # Copiar el build generado a la carpeta de Nginx
-COPY --from=build /app/build /usr/share/nginx/html
+COPY --from=build /app/out /usr/share/nginx/html
 
 # Exponer el puerto 80 para servir la aplicación
 EXPOSE 80
