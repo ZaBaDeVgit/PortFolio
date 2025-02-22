@@ -1,6 +1,7 @@
 import Link from "next/link";
 import MotionTransition from "./transition-component";
 import { socialNetworks } from "@/data";
+import AOS from 'aos';
 
 const Header = () => {
     return (

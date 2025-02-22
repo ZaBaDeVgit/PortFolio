@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import emailjs from "emailjs-com";
+import emailjs from '@emailjs/browser';
 import Swal from "sweetalert2";
 import TransitionPage from "@/components/transition-page";
 import CircleImage from "@/components/circle-image";
