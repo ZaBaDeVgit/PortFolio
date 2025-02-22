@@ -7,7 +7,7 @@ WORKDIR /app
 # Copiar archivos y directorios al contenedor
 COPY package*.json ./
 COPY public ./public
-COPY src ./src
+
 
 # Instalar dependencias y construir la app
 RUN npm install
